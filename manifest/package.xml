@@ -4,6 +4,11 @@
         <members>*</members>
         <name>customObject</name>
     </types>
+
+     <types>
+        <members>*</members>
+        <name>Layout</name>
+    </types>   
    
     <version>59.0</version>
 </Package>
